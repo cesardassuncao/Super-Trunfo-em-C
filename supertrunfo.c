@@ -20,7 +20,7 @@ int main() {
     scanf("%s", codigo1);
     printf("Digite o Estado (apenas a primeira letra, de A-H): "); 
     scanf(" %c", &estado1);
-    printf("Digite o nome da Cidade (ex: RioDeJaneiro, sem espaços e açentos): "); 
+    printf("Digite o nome da Cidade (ex: RioDeJaneiro, sem espaços e acentos): "); 
     scanf("%s", nomedaCidade1);
     printf("Digite o número de habitantes da Cidade (ex: 6211223, sem pontuação): "); 
     scanf("%lu", &populacao1);
